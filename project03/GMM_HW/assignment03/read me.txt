@@ -1,0 +1,5 @@
+For the TrainData and TestData,
+each column represent a image data.
+
+Accordingly,there are 130 images and the dimension of each image
+is 83. 
